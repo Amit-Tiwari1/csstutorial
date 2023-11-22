@@ -1,0 +1,62 @@
+                                      css class-4
+
+Border - 
+border-width:2px;(px,rem,percentage me)
+border-style:solid;(solid,dotted,dashed,double,groove,ridge,inset,outset,none)
+border-color(koi bhi color de skte hai)
+border side(border-top,border-right,border-bottom,border-left)  
+
+2. outline properties
+outline-width
+outline-style
+outline-color
+outline-offset
+shand - outline:width,solid,:read-only
+
+3. padding(ptop,pright,pbottom,paddingleft)(adr wli side)
+shand - padding:10px padding:top,right,bottom,:left
+
+4. margin(mt,mr,mb,ml) 
+margin-left:auto; center me lane ke liye but condition is width property deni hogi
+
+5. height and width(px-fixed, percetage,liqued)
+
+6. min-height max-height()
+
+7. box-sizing (border-box)
+
+8- overflow (visible,hidden, scroll, auto)
+
+9- border-radius ()
+10- box- shadow(h-offset,v-offset,blur,spread,color,multiple)-
+11- float (left, right,none)upside
+12- clear(left,righ,both)
+13- font(font-size,font-family, font-weight, font-style,font-variant,line- height)
+14-text-properties(text-align, text-align-last, text-transform, text-indent,word-spacing,latter-spacing)
+15 - text-decoration( text-decoration-line, color{underline,overline,line-through,none}text-decoration:underline red way)
+16 - word-warp, word-break(break-word , break-all, keep-all )
+17 - text-shadow (2px, 2px, 5px , orange)
+18- white-space(normal, nowrap,pre,pre-line,pre-wrap)
+19- text-overflow (clip,ellipsis,string)with white space
+20- writing-mode- (horizontal-tb,vertical-rl, vertical-lr, sideways-rl, sideways-lr)
+21-  column-count(count,gap,width,)
+22- @font-face {
+    font-family: myfontname;
+    src:url()
+}
+23- google fonts()
+24- list-style (list-style-image,list-style-position, list-style-type,list-style(none inside, url(path)) )
+25-background-image(bg-img, bg-repeat(repeat,no-repeat,repeat-x,repeat-y,space,round),bg-position)
+(lt,lc,lb,rt,rc,rb,ct,cc,cb)
+
+26- bg-attachment(scroll,fixed)
+27-bg-size(auto,lengthpx,percentage%,cover,contain)
+28- background-origin(content-box,)
+29- background-clip(content-box,border-box,padding-box for color text) //done
+30- color mode(hexadecimal(#ff0000), rgb(0-255),rgba(),)
+31- gradient(more-one(linear gradient, radial,repeating linear, rrg))
+32- opacity (opacity=50) = background: rgba(180,0,0,0)
+33- background-blend-mode (screen,darken)
+34- mix-blend-mode ()
+35- display - (inline,block,inline-block,list-item,flex,grid,inline-flex)
+36- visibility - visible, hidden, 
