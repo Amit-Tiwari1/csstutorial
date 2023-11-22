@@ -59,4 +59,6 @@ margin-left:auto; center me lane ke liye but condition is width property deni ho
 33- background-blend-mode (screen,darken)
 34- mix-blend-mode ()
 35- display - (inline,block,inline-block,list-item,flex,grid,inline-flex)
-36- visibility - visible, hidden, 
+36- visibility - visible, hidden,collapse
+37- position (static,relative,absolute,fixed,sticky)
+38- z-index(with position props)
